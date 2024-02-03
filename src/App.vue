@@ -19,7 +19,7 @@ const data = [
 </script>
 
 <template>
-  <div class="fixed bottom-0 left-0 right-0 flex justify-center p-2 bg-white print:hidden">
+  <div class="fixed bottom-0 left-0 right-0 flex justify-center p-2 bg-white print:hidden z-10">
     <p class="text-sm text-gray-700">
       <span class="mdi mdi-apple-keyboard-command"></span>
 
