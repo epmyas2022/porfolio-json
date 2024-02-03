@@ -1,0 +1,213 @@
+{
+    "basics": {
+        "name": "John Doe",
+        "label": "Programmer",
+        "image": "https://unavatar.io/readcv/jay.dedhia",
+        "email": "john@gmail.com",
+        "phone": "(912) 555-4321",
+        "url": "https://johndoe.com",
+        "summary": "Full Stack Engineer focused on building products with extra attention to detail",
+        "location": {
+            "address": "2712 Broadway St",
+            "postalCode": "CA 94115",
+            "city": "San Francisco",
+            "countryCode": "US",
+            "region": "California"
+        },
+        "profiles": [
+            {
+                "icon": "mdi mdi-github",
+                "name": "Github",
+                "url": "https://twitter.com/john"
+            },
+            {
+                "icon": "mdi mdi-linkedin",
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/in/john"
+            },
+            {
+                "icon": "mdi mdi-twitter",
+                "name": "Twitter",
+                "url": "https://twitter.com/john"
+            },
+            {
+                "icon": "mdi mdi-facebook",
+                "name": "Facebook",
+                "url": "https://www.facebook.com/john"
+            },
+            {
+                "icon": "mdi mdi-instagram",
+                "name": "Instagram",
+                "url": "https://www.instagram.com/john"
+            }
+        ]
+    },
+    "about": "I am a Full Stack Engineer focused on building products with extra attention to detail. I have a passion for learning and sharing my knowledge with others as publicly as possible. I have a knack for building applications that are scalable, maintainable, and efficient. I am most at home when I am working with JavaScript, React, Node.js, and PostgreSQL, but I have worked with a variety of other technologies as well.",
+    "work": [
+        {
+            "name": "Company",
+            "position": "President",
+            "url": "https://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": " Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+            "highlights": [
+                "Remote"
+            ]
+        },
+        {
+            "name": "Company",
+            "position": "President",
+            "url": "https://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": " Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+            "highlights": [
+                "Remote"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Wrocław University of Technology",
+            "url": "https://institution.com/",
+            "area": "Bachelor's Degree in Control systems engineering and Robotics",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        },
+        {
+            "institution": "Wrocław University of Technology",
+            "url": "https://institution.com/",
+            "area": "Bachelor's Degree in Control systems engineering and Robotics",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "GraphQL",
+        "TypeScript",
+        "Flutter"
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": [
+                "Ferrets",
+                "Unicorns"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Consultly",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "A platform to build and grow your online business",
+            "highlights": [
+                "Side Project",
+                "TypeScript",
+                "Next.js",
+                "Vite",
+                "GraphQL",
+                "WebRTC"
+            ],
+            "url": "https://project.com/"
+        },
+
+        {
+            "name": "Consultly",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "A platform to build and grow your online business",
+            "highlights": [
+                "Side Project",
+                "TypeScript",
+                "Next.js",
+                "Vite",
+                "GraphQL",
+                "WebRTC"
+            ],
+            "url": "https://project.com/"
+        },
+
+        {
+            "name": "Consultly",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "A platform to build and grow your online business",
+            "highlights": [
+                "Side Project",
+                "TypeScript",
+                "Next.js",
+                "Vite",
+                "GraphQL",
+                "WebRTC"
+            ],
+            "url": "https://project.com/"
+        }
+    ]
+}
