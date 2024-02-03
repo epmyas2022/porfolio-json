@@ -1,7 +1,7 @@
 # porfolio-json
 
 Este proyecto es una página web que facilita la creacion de un cv atraves de un json,
-ademas de que se pude imprimir, una forma facil de hacer tu cv.
+ademas de que se puede imprimir, una forma facil de hacer tu cv.
 
 ## Recursos 📖
 
