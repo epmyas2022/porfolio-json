@@ -30,4 +30,4 @@ coverage
 *.tsbuildinfo
 
 .curriculum/*
-!curriculum/.gitkeep
+!.curriculum/.gitkeep
