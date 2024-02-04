@@ -14,9 +14,15 @@
     "baseUrl": ".",
     "paths": {
       "@/*": [
-        "./src/*"
+        "./src/*"      ],
+      "@cves": [
+        "./cv.json"
       ],
-      "@cv": ["./cv.json"]
+
+      "@cven": [
+        "./cv-en.json"
+      ]
+  
     }
   }
 }

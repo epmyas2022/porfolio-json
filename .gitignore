@@ -28,3 +28,6 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+.curriculum/*
+!curriculum/.gitkeep
