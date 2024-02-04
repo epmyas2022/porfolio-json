@@ -11,6 +11,8 @@ Iconos: [matetrial desing icons](https://pictogrammers.com/docs/library/mdi/gett
 
 Vue3: [vue](https://vuejs.org/)
 
+Ninja Keys: [ninja keys](https://github.com/ssleptsov/ninja-keys)
+
 ## Requerimientos 👌
 
 - Node.js 12.0.0 o superior
@@ -38,10 +40,29 @@ npm run dev
 npm run build
 ```
 
+## Entorno de desarrollo 🛠️
+
+Remombra el archivo `.env.example` por `.env.local`
+
+puedes especificar la ruta del archivo json que contiene el cv en español o ingles
+
+```env
+PATH_CV_ES=./.curriculum/yours-cv-es.json
+```
+
+*por defecto el archivo  en español se carga de `./cv.json`*
+
+```env
+PATH_CV_EN=./.curriculum/yours-cv-es.json
+```
+
+*por defecto el archivo  en ingles se carga de `./cv-en.json`*
+
 ## Features 📋
 
 - [x] Crear un cv a partir de un json
 - [x] Imprimir el cv
+- [x] Multilenguaje (español, ingles)
 - [ ] Editar el cv
 - [ ] Responsive
 

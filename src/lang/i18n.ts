@@ -1,18 +1,13 @@
 import { createI18n } from "vue-i18n";
-
+import { defaultLocale, Locale } from "@/enum/lang/locales";
 import es from "./es.json";
 import en from "./en.json";
 
 const path = window.location.pathname;
 
-const locales = Object.freeze( {
-    '/es': 'es',
-    '/en': 'en'
-}) as Record<string, string>;
-
 export default createI18n({
     legacy: false,
-    locale: locales[path] || 'es',
+    locale: Locale[path]?.locale || Locale[defaultLocale].locale,
     messages: {
         es,
         en
