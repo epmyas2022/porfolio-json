@@ -53,7 +53,7 @@ const data = [
   >
   </ninja-keys>
   <main class="flex justify-center p-12">
-    <div class="w-full md:w-[56%]">
+    <div class="w-full md:w-[720px]">
       <header>
         <AppHeaderVue :basics="basics" />
       </header>
